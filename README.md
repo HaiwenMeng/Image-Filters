@@ -1,4 +1,4 @@
-# Image-Filters-
+# Image-Filters
 simple Filter in python and C++
 写了一些简单的滤波器实现代码，比较基础，仅供参考。
 2021/08/31 初次提交代码
